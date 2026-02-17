@@ -19,7 +19,7 @@
     </a>
   </p>
 
-  <p>Build apps that adapt to your users.</p>
+  <p>Build apps that adapt to your users!</p>
 </div>
 
 ## Generative UI Resources
